@@ -7,6 +7,7 @@ This script is aimed to be a little helper for C4D noobs like me to create 3D ob
 - use a replicator  
 - scatter them in space  
 - save the file  
+
 I still have one material when i load the file in AE + E3D. I can use multiobjects. Shure. But what if I want to isolate one specific cube? In C4D I have to manually asign diffrent materials to all my objects. That can be a tidious work with hundreds of them.  
 This script does the trick.  
 
